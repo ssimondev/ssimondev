@@ -1,7 +1,8 @@
-# Hi there 👋
-## I'm Simon
+<img align="left" src="https://orhun.dev/img/crow.png">
 
-<code><img height="30" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>   
-<code><img height="30" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" alt="sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>   
-<code><img height="30" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+[![pgp](https://img.shields.io/badge/pgp-0xB928720AEC532117-313131?style=flat-square&labelColor=313131&color=313131)](https://orhun.dev/orhun.gpg)   
+[![twitter](https://img.shields.io/badge/-@orhunp__-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/orhunp_)  
+[![linkedin](https://img.shields.io/badge/-@orhunp-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/orhunp/)  
+[![patreon](https://img.shields.io/badge/-@orhunp-313131?style=flat-square&labelColor=313131&logo=Patreon&logoColor=white&color=313131)](https://patreon.com/orhunp)
+
+Passionate about **GNU/Linux**. Likes to write code.
