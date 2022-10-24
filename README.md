@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ssimondev&label=Views&color=lightgray&style=flat-square" alt="ssimondev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ssimondev&label=Views&color=lightgray&style=flat-square" alt="ssimondev"/></p>
 <h3 align="center">A begginer frontend developer from Czech Republic</h3>
 
 <h3 align="left">Connect with me:</h3>
