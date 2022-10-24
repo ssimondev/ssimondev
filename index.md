@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A begginer frontend developer from Czech Republic</h3>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ssimondev&label=Views&color=lightgray&style=flat-square" alt="ssimondev"/></p> -->
-
+<!DOCTYPE HTML>
+<html>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/ssimon.jpg" target="blank"><img align="center" src="images/icons/instagram.png" alt="ssimon.jpg" height="30" width="40" /></a>
@@ -24,3 +25,4 @@
     a:hover { text-decoration: none; };
     a:active { text-decoration: none; };
     </style>
+</html>
