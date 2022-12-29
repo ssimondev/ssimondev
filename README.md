@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 
 ```javascript
-    var language
+    const language
     language = "javascript"
 
     console.log("I am learning " + language)
