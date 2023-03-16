@@ -3,7 +3,7 @@ export default function Home() {
     return (
         <>
             <h1>Hi, I'm Simon</h1>
-            <h2>I'm learning react/nextjs</h2>
+            <h2>I'm a Linux enthusiast</h2>
         </>
     )
 }
