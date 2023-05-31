@@ -1,12 +1,7 @@
-```javascript
-export default function Home() {
-    return (
-        <>
-            <h1>Hi, I'm Simon</h1>
-            <h2>I'm a Linux enthusiast</h2>
-        </>
-    )
-}
+```bash
+#!/bin/bash
+Hi, I'm Simon
+I'm a Linux/FOSS enthusiast
 ```
 
 [![Hits](https://hits-app.vercel.app/hits?url=https://github.com/ssimondev&bgLeft=444444&bgRight=575fff&label=visits)](https://hits-app.vercel.app/)
